@@ -69,12 +69,14 @@ brew cask install 4k-video-downloader
 brew cask install 4k-video-to-mp3
 brew cask install 4k-youtube-to-mp3
 brew cask install coconutbattery
+brew cask install discord
 brew cask install firefox
 brew cask install google-chrome
 brew cask install mendeley-desktop
 brew cask install mendeley-reference-manager
 brew cask install microsoft-office
 brew cask install nordvpn
+brew cask install skype
 brew cask install skype-for-businesss
 brew cask install vlc
 
