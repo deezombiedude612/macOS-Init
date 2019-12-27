@@ -1,0 +1,35 @@
+{
+	"C_Cpp.default.cStandard": "c11",
+	"C_Cpp.default.cppStandard": "c++17",
+	"C_Cpp.default.intelliSenseMode": "gcc-x64",
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"editor.suggestSelection": "first",
+	"editor.tabCompletion": "on",
+	"editor.wordWrap": "on",
+	"editor.wrappingIndent": "indent",
+	"html.format.endWithNewline": true,
+	"html.format.indentHandlebars": true,
+	"html.format.indentInnerHtml": true,
+	"prettier.printWidth": 160,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"python.autoComplete.addBrackets": true,
+	"python.formatting.autopep8Path": "/usr/local/bin/autopep8",
+	"python.jediEnabled": false,
+	"python.linting.enabled": true,
+	"python.linting.pylintPath": "/usr/local/bin/pylint",
+	"terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"workbench.colorTheme": "Night Owl",
+	"workbench.iconTheme": "vscode-icons",
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[php]": {
+		
+	}
+}
