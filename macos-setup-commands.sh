@@ -42,12 +42,14 @@ brew install zsh-completions
 
 # Cask
 brew cask install anaconda
+brew cask install android-studio
 brew cask install adoptopenjdk
 brew cask install adoptopenjdk8
 brew cask install android-ndk
 brew cask install android-sdk
 brew cask install dotnet
 brew cask install gfortran
+brew cask install github
 brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
@@ -55,7 +57,9 @@ brew cask install mactex
 brew cask install mono-mdk
 brew cask install mysqlworkbench
 brew cask install opera
+brew cask install rstudio
 brew cask install sublime-text
+brew cask install texstudio
 brew cask install visual-studio
 brew cask install visual-studio-code
 brew cask install xamarin
@@ -64,9 +68,11 @@ brew cask install xamarin
 brew cask install 4k-video-downloader
 brew cask install 4k-video-to-mp3
 brew cask install 4k-youtube-to-mp3
+brew cask install coconutbattery
 brew cask install firefox
 brew cask install google-chrome
 brew cask install microsoft-office
+brew cask install nordvpn
 brew cask install skype-for-businesss
 brew cask install vlc
 
