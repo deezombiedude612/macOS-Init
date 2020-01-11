@@ -6,6 +6,7 @@ xcode-select --install
 
 # Homebrew maintenance
 brew doctor
+brew cleanup
 brew update
 
 brew install httpd
@@ -18,6 +19,8 @@ brew install ant
 brew install autopep8
 brew install bash
 brew install composer
+brew install curl
+brew install curl-openssl
 brew install dart
 brew install gcc
 brew install gdb
@@ -28,7 +31,7 @@ brew install gradle
 brew install maven
 brew install mongodb
 brew install pipenv
-brew install pyvenv
+brew install pyenv
 brew install pylint
 brew install python
 brew install python@2
@@ -37,10 +40,12 @@ brew install r
 brew install sass
 brew install sqlite
 brew install tree
+brew install vim
 brew install zsh
 brew install zsh-completions
 
 # Cask
+brew cask install adoptopenjdk8
 brew cask install anaconda
 brew cask install android-studio
 brew cask install adoptopenjdk
@@ -50,6 +55,7 @@ brew cask install android-sdk
 brew cask install dotnet
 brew cask install gfortran
 brew cask install github
+brew cask install intel-haxm
 brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
@@ -57,6 +63,7 @@ brew cask install mactex
 brew cask install mono-mdk
 brew cask install mysqlworkbench
 brew cask install opera
+brew cask install postman
 brew cask install rstudio
 brew cask install sublime-text
 brew cask install texstudio
@@ -76,6 +83,7 @@ brew cask install mendeley-desktop
 brew cask install mendeley-reference-manager
 brew cask install microsoft-office
 brew cask install nordvpn
+brew cask install opera
 brew cask install skype
 brew cask install skype-for-businesss
 brew cask install vlc
