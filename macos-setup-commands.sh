@@ -28,6 +28,7 @@ brew install gdbm
 brew install gfortran
 brew install git
 brew install gradle
+brew install make
 brew install maven
 brew install mongodb
 brew install pipenv
