@@ -8,6 +8,7 @@ felixfbecker.php-debug
 felixfbecker.php-intellisense
 felixfbecker.php-pack
 formulahendry.vscode-mysql
+james-yu.latex-workshop
 k--kato.intellij-idea-keybindings
 KevinRose.vsc-python-indent
 ms-dotnettools.csharp
