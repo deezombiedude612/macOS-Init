@@ -10,14 +10,16 @@ felixfbecker.php-pack
 formulahendry.vscode-mysql
 k--kato.intellij-idea-keybindings
 KevinRose.vsc-python-indent
+ms-dotnettools.csharp
 ms-python.python
+ms-toolsai.jupyter
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.cpptools
-ms-vscode.csharp
 octref.vetur
 PKief.material-icon-theme
 rifi2k.format-html-in-php
+ritwickdey.LiveServer
 rokoroku.vscode-theme-darcula
 sdras.night-owl
 smockle.xcode-default-theme
@@ -25,5 +27,6 @@ Sophisticode.php-formatter
 tiansin.php-debug
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
+wart.ariake-dark
 zhuangtongfa.material-theme
 Zignd.html-css-class-completion

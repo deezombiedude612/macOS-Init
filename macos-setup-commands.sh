@@ -9,6 +9,7 @@ brew doctor
 brew cleanup
 brew update
 
+# for localhost server
 brew install httpd
 brew install mysql
 brew install php
@@ -45,49 +46,46 @@ brew install vim
 brew install zsh
 brew install zsh-completions
 
-# Cask
-brew cask install adoptopenjdk8
-brew cask install anaconda
-brew cask install android-studio
-brew cask install adoptopenjdk
-brew cask install adoptopenjdk8
-brew cask install android-ndk
-brew cask install android-sdk
-brew cask install dotnet
-brew cask install gfortran
-brew cask install github
-brew cask install intel-haxm
-brew cask install intellij-idea
-brew cask install iterm2
-brew cask install java
-brew cask install mactex
-brew cask install mono-mdk
-brew cask install mysqlworkbench
-brew cask install opera
-brew cask install postman
-brew cask install rstudio
-brew cask install sublime-text
-brew cask install texstudio
-brew cask install visual-studio
-brew cask install visual-studio-code
-brew cask install xamarin
+# Casks
+brew install adoptopenjdk8
+brew install anaconda
+brew install android-ndk
+brew install android-sdk
+brew install dotnet
+brew install gfortran
+brew install intex-haxm
+# brew install java
+brew install mactex
+brew install mono-mdk
 
 # Frequent applications
-brew cask install 4k-video-downloader
-brew cask install 4k-video-to-mp3
-brew cask install 4k-youtube-to-mp3
-brew cask install coconutbattery
-brew cask install discord
-brew cask install firefox
-brew cask install google-chrome
-brew cask install mendeley-desktop
-brew cask install mendeley-reference-manager
-brew cask install microsoft-office
-brew cask install nordvpn
-brew cask install opera
-brew cask install skype
-brew cask install skype-for-businesss
-brew cask install vlc
+brew install 4k-video-downloader
+brew install 4k-video-to-mp3
+brew install 4k-youtube-to-mp3
+brew install android-studio
+brew install coconutbattery
+brew install discord
+brew install firefox
+brew install github
+brew install google-chrome
+brew install intellij-idea
+brew install iterm2
+brew install mendeley-desktop
+brew install mendeley-reference-manager
+# brew install microsoft-office
+brew install mysqlworkbench
+# brew install nordvpn
+brew install opera
+brew install postman
+brew install rstudio
+brew install skype
+# brew install skype-for-businesss
+brew install sublime-text
+# brew install texstudio
+# brew install visual-studio
+brew install visual-studio-code
+brew install vlc
+# brew install xamarin
 
 # aliases (watch out for those with version numbers!)
 export ANT_HOME="/usr/local/Cellar/ant/1.10.7"
@@ -122,7 +120,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 upgrade_oh_my_zsh
 
 # installing NVM (check https://github.com/nvm-sh/nvm for latest link)
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 
 # install node
 nvm install stable
