@@ -47,7 +47,7 @@ brew install zsh
 brew install zsh-completions
 
 # Casks
-brew install adoptopenjdk8
+# brew install adoptopenjdk8
 brew install anaconda
 brew install android-ndk
 brew install android-sdk
@@ -57,6 +57,8 @@ brew install intex-haxm
 # brew install java
 brew install mactex
 brew install mono-mdk
+brew install openjdk@8    # Java JDK 8
+brew install openjdk@11   # Java JDK 11 LTS
 
 # Frequent applications
 brew install 4k-video-downloader
