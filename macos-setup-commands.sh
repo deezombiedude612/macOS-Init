@@ -133,6 +133,7 @@ npm install -g @vue/cli
 npm install -g vuepress
 npm install -g @angular/cli
 npm install -g eslint
+npm install -g sass
 
 # requires vs-extensions.txt, installs VS Code Extensions
 while read line; do code --install-extension "$line"; done < vs-extensions.txt
