@@ -77,6 +77,7 @@ brew install mendeley-reference-manager
 # brew install microsoft-office
 brew install mysqlworkbench
 # brew install nordvpn
+brew install notion
 brew install opera
 brew install postman
 brew install rstudio
