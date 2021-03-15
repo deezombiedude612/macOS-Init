@@ -74,6 +74,7 @@ brew install intellij-idea
 brew install iterm2
 brew install mendeley-desktop
 brew install mendeley-reference-manager
+brew install microsoft-edge
 # brew install microsoft-office
 brew install mysqlworkbench
 # brew install nordvpn
