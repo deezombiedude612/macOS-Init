@@ -1,4 +1,5 @@
 {
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, TabWidth: 2, ColumnLimit: 0, UseTab: Always}",
 	"C_Cpp.default.cStandard": "c11",
 	"C_Cpp.default.cppStandard": "c++17",
 	"C_Cpp.default.intelliSenseMode": "gcc-x64",
@@ -11,6 +12,9 @@
 	"html.format.endWithNewline": true,
 	"html.format.indentHandlebars": true,
 	"html.format.indentInnerHtml": true,
+	"html.format.templating": true,
+	"latex-workshop.view.pdf.viewer": "tab",
+	"phpfmt.cakephp": true,
 	"prettier.printWidth": 160,
 	"prettier.tabWidth": 4,
 	"prettier.useTabs": true,
@@ -20,16 +24,26 @@
 	"python.linting.enabled": true,
 	"python.linting.pylintPath": "/usr/local/bin/pylint",
 	"terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+	"todohighlight.isEnable": true,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"workbench.colorTheme": "Night Owl",
-	"workbench.iconTheme": "vscode-icons",
+	"window.zoomLevel": 0,
+	// "workbench.colorTheme": "Night Owl",
+	"workbench.colorTheme": "One Dark Pro",
+	// "workbench.iconTheme": "vscode-icons",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
 	"[javascript]": {
-		"editor.defaultFormatter": "vscode.typescript-language-features"
+		// "editor.defaultFormatter": "vscode.typescript-language-features"
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[html]": {
-		"editor.defaultFormatter": "vscode.html-language-features"
+		// "editor.defaultFormatter": "vscode.html-language-features"
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[php]": {
-		
-	}
+	"[php]": {}
 }
