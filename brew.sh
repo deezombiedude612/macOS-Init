@@ -11,7 +11,7 @@ brew update
 
 brew install git
 brew install handbrake
-brew install mysql
+# brew install mysql
 # brew install php
 # brew install phpmyadmin
 brew install pyenv
