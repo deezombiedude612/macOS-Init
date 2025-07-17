@@ -10,13 +10,17 @@ brew cleanup
 brew update
 
 brew install git
-brew install handbrake
+# brew install handbrake
 # brew install mysql
 # brew install php
 # brew install phpmyadmin
 brew install pyenv
+# brew install telnet
+# brew install tldr
+brew install tlrc
 brew install tree
 brew install webp
+brew install wget
 
 # brew install --cask 4k-video-downloader
 brew install --cask 4k-video-downloader+
@@ -32,21 +36,24 @@ brew install --cask docker-desktop
 brew install --cask firefox
 brew install --cask github
 # brew install --cask google-chrome
+brew install --cask handbrake
 brew install --cask herd
 brew install --cask intellij-idea-ce
 brew install --cask inkscape
 brew install --cask iterm2
+brew install --cask keka
 brew install --cask mactex
 brew install --cask mendeley-reference-manager
 brew install --cask microsoft-auto-update
 brew install --cask microsoft-edge
-brew install --cask microsoft-teams
+# brew install --cask microsoft-teams
 # brew install --cask mysqlworkbench
 brew install --cask obs
 brew install --cask opera
 brew install --cask postman
 brew install --cask pycharm-ce
 brew install --cask rstudio
+brew install --cask shottr
 # brew install --cask skype
 brew install --cask stats
 brew install --cask sublime-text
